@@ -13,3 +13,6 @@ Mac commands because I always forget :S
 
 # Export
 ```export JAVA_HOME="/Library/Java/JavaVirtualMachines/<java_version>/Contents/Home"```
+
+
+[Stackoverflow](https://stackoverflow.com/questions/21964709/how-to-set-or-change-the-default-java-jdk-version-on-os-x)
